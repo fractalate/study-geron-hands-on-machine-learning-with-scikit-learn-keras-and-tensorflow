@@ -9,4 +9,5 @@ My study notes and worked exercises from
 
 Search the code-base for these terms to find usages and examples.
 
+* [`KNeighborsRegressor`](https://scikit-learn.org/stable/modules/generated/sklearn.neighbors.KNeighborsRegressor.html) - Regression based on k-nearest neighbors.
 * [`LinearRegression`](https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LinearRegression.html) - Ordinary least squares Linear Regression.
