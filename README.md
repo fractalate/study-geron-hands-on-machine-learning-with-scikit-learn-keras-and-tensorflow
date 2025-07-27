@@ -7,6 +7,8 @@ My study notes and worked exercises from
 
 * [Geron - California Housing](https://github.com/ageron/data/tree/main/housing) (Chpater 2)
 * [OpenML - mnist_784](https://www.openml.org/search?type=data&status=active&id=554) (Chapter 3)
+* [Geron - Titanic](https://github.com/ageron/data/tree/main/titanic) (Chpater 3)
+* [Spamassassin - Spam/Ham](https://spamassassin.apache.org/old/publiccorpus/) (Chapter 3)
 
 ## Glossary
 
